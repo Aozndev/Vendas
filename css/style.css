@@ -7,7 +7,7 @@
 }
 
 body {
-    background: #122037;
+    background: #000000;
 }
 
 .status {
@@ -50,7 +50,7 @@ body {
 }
 
 .pendentes {
-    background: #182b49;
+    background: #000000;
     width: 80%;
     border-radius: 8px;
     min-height: 43vh;
@@ -96,7 +96,7 @@ body {
     width: 95%;
     height: 10vh;
     margin: 2vh auto;
-    background: #122037;
+    background: #000000;
     border-radius: 10px;
 }
 
